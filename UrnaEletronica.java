@@ -62,7 +62,7 @@ public class UrnaEletronica {
         if (empatou > 1){
             System.out.println("Empate!");
         }else {
-            System.out.println("O vencedor é " + vencedor); 
+            System.out.println("O vencedor é " + vencedor);
         }
 
     }
